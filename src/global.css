@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inder:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-sen: Sen;
+  --font-inder: Inder;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-aqua: #49f1f1;
+  --color-lightslategray: #837ea4;
+  --color-slategray: #536081;
+  --color-mediumturquoise: #6fe9f1;
+  --color-black: #000;
+  --color-cadetblue: #5c8888;
+
+  /* Paddings */
+  --padding-smi: 13px;
+  --padding-4xs: 9px;
+  --padding-mid: 17px;
+  --padding-5xs: 8px;
+
+  /* Border radiuses */
+  --br-81xl: 100px;
+  --br-xl: 20px;
+  --br-3xs: 10px;
+}
